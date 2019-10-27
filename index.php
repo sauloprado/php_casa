@@ -17,4 +17,3 @@ $divisao = 2 / 2;
     <p>2 / 2<?=$divisao?></p>
 <body>
 </head>
-</html>
